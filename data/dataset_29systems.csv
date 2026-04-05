@@ -1,0 +1,30 @@
+system_id,system_name,domain,A1,A2,A3,A4,A5,Delta23,Delta45,Delta12,Delta35,Delta43,regime_primary,regime_secondary,distance_primary,classification_margin
+SYS001,Eukaryotic cell,biological,0.9,1.0,1.0,1.0,0.6,0.0,0.4,-0.1,0.4,0.0,F01,F05,0.25,0.05
+SYS002,Global supply chain,economic,0.9,1.0,0.4,0.6,0.7,0.6,-0.1,-0.1,-0.3,0.2,F03,F06,0.1,0.79
+SYS003,Static LLM,technological,0.7,1.0,0.6,0.2,0.1,0.4,0.1,-0.3,0.5,-0.4,F03,F09,0.0,0.1
+SYS004,Linux kernel,technological,1.0,0.9,0.9,0.9,1.0,0.0,-0.1,0.1,-0.1,0.0,F01,F06,0.0,0.0
+SYS005,Ant colony,biological,0.9,0.9,0.8,0.8,0.5,0.1,0.3,0.0,0.3,0.0,F01,F05,0.0,0.45
+SYS006,Gut microbiome,biological,0.9,0.9,0.7,0.8,0.8,0.2,0.0,0.0,-0.1,0.1,F06,F01,0.04,0.01
+SYS007,Internet BGP,technological,0.9,1.0,0.6,0.8,0.4,0.4,0.4,-0.1,0.2,0.2,F05,F03,0.1,0.2
+SYS008,ECB,institutional,0.9,1.0,0.8,1.0,0.7,0.2,0.3,-0.1,0.1,0.2,F01,F03,0.05,0.525
+SYS009,Wikipedia,social,0.9,0.9,0.8,0.9,0.8,0.1,0.1,0.0,0.0,0.1,F01,F06,0.0,0.125
+SYS010,Coral reef,biological,1.0,1.0,0.7,0.8,0.6,0.3,0.2,0.0,0.1,0.1,F01,F03,0.3,0.0
+SYS011,Temperate forest,biological,1.0,1.0,0.8,0.8,0.8,0.2,0.0,0.0,0.0,0.0,F06,F01,0.04,0.01
+SYS012,Local market,economic,0.9,0.8,0.7,0.8,0.4,0.1,0.4,0.1,0.3,0.1,F05,F01,0.1,0.15
+SYS013,Bitcoin blockchain,technological,0.8,0.9,0.9,0.8,0.4,0.0,0.4,-0.1,0.5,-0.1,F05,F01,0.1,0.15
+SYS014,Bio neural network,biological,1.0,1.0,1.0,1.0,0.9,0.0,0.1,0.0,0.1,0.0,F01,F06,0.0,0.125
+SYS015,Benedictine order,institutional,0.9,0.9,0.9,1.0,0.7,0.0,0.3,0.0,0.2,0.1,F01,F06,0.0,0.625
+SYS016,Electrical grid,infrastructure,1.0,1.0,0.9,0.9,0.6,0.1,0.3,0.0,0.3,0.0,F01,F05,0.0,0.55
+SYS017,Industrial pipeline,economic,0.8,0.8,0.8,0.9,0.4,0.0,0.5,0.0,0.4,0.1,F05,F04,0.1,0.3
+SYS018,US Constitution,institutional,0.9,1.0,0.8,1.0,0.7,0.2,0.3,-0.1,0.1,0.2,F01,F03,0.05,0.525
+SYS019,Bureaucracy,institutional,0.9,0.7,0.8,1.0,0.5,-0.1,0.5,0.2,0.3,0.2,F05,F04,0.2,0.125
+SYS020,Institutional archive,institutional,0.8,0.7,0.8,0.9,0.5,-0.1,0.4,0.1,0.3,0.1,F05,F01,0.2,0.05
+SYS021,Domestic thermostat,technological,0.7,0.7,0.9,0.7,0.1,-0.2,0.6,0.0,0.8,-0.2,F05,F04,0.0,0.3
+SYS022,NaCl crystal,scientific,0.5,0.8,0.6,0.5,0.2,0.2,0.3,-0.3,0.4,-0.1,F01,F03,0.05,0.025
+SYS023,Occupy Wall Street,social,0.6,0.9,0.4,0.3,0.7,0.5,-0.4,-0.3,-0.3,-0.1,F03,F06,0.0,0.69
+SYS024,PostgreSQL database,technological,0.9,0.9,0.9,0.4,0.7,0.0,-0.3,0.0,0.2,-0.5,F01,F06,0.0,0.0
+SYS025,Startup in pivot,economic,0.6,0.8,0.5,0.5,1.0,0.3,-0.5,-0.2,-0.5,0.0,F03,F06,0.0,0.24
+SYS026,Prussian army,institutional,0.9,0.9,0.8,1.0,0.4,0.1,0.6,0.0,0.4,0.2,F05,F04,0.1,0.3
+SYS027,Parliament in crisis,institutional,0.9,1.0,0.3,0.2,0.2,0.7,0.0,-0.1,0.1,-0.1,F03,F04,0.0,1.125
+SYS028,Artist collective,social,0.60,0.8,0.4,0.4,0.8,0.4,-0.4,-0.2,-0.4,0.0,F03,F06,0.0,0.49
+SYS030,Human psyche (cognitive),scientific,1.0,1.0,1.0,0.9,0.9,0.0,0.0,0.0,0.1,-0.1,F01,F06,0.0,0.0
